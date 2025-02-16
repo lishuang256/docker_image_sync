@@ -2,3 +2,4 @@
 --platform=linux/amd64,linux/arm64 nginx:latest
 --platform=linux/amd64 ghcr.io/hyperledger/fabric-private-chaincode-ccenv:main
 --platform=linux/amd64 ghcr.io/hyperledger/fabric-private-chaincode-base-dev:main
+--platform=linux/amd64 ghcr.io/hyperledger/fabric-peer:2.2.0
