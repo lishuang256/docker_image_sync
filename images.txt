@@ -7,3 +7,4 @@
 --platform=linux/amd64 grafana/grafana:latest
 --platform=linux/amd64 hyperledger/fabric-tools:2.5.5
 --platform=linux/amd64 prom/prometheus:latest
+
