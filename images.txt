@@ -1,5 +1,4 @@
 # 支持指定架构、多架构
---platform=linux/amd64,linux/arm64 nginx:latest
 --platform=linux/amd64 hyperledger/fabric-peer:2.5.5
 --platform=linux/amd64 hyperledger/fabric-orderer:2.5.5
 --platform=linux/amd64 hyperledger/fabric-ca:1.5.5
